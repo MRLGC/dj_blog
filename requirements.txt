@@ -1,0 +1,4 @@
+-i http://pypi.doubanio.com/simple/
+Django==1.11.20
+pytz==2019.1
+-e .
